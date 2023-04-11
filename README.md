@@ -31,5 +31,5 @@
 </div>
 <br> 
  <img src="https://github-readme-stats.vercel.app/api?username=jonghyunlee95&show_icons=true&theme=prussian">
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgus7578)(https://solved.ac/whdgus7578/)">
+ <img src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgus7578)](https://solved.ac/whdgus7578/)">
 
