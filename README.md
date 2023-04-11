@@ -1,4 +1,4 @@
-<div align="center">
+
   ### Hi there 👋
 
   <!--
@@ -15,7 +15,7 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   --> 
-
+<div align="center">
   🌱 I’m currently learning Front-end Stack <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"> 
