@@ -1,4 +1,3 @@
-<div align="center">
   ### Hi there 👋
 
   <!--
@@ -15,7 +14,8 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   --> 
-
+  
+ <div align="center">
   🌱 I’m currently learning Front-end Stack <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"> 
@@ -29,6 +29,5 @@
     <img src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=GIT&logoColor=white">  
     <img src="https://img.shields.io/badge/GITHUB-181717?style=plastic&logo=GITHUB&logoColor=white"> <br> 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee95)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdgus7578&show_icons=true&theme=prussian)
 
