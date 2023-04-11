@@ -29,4 +29,4 @@
     <img src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=GIT&logoColor=white">  
     <img src="https://img.shields.io/badge/GITHUB-181717?style=plastic&logo=GITHUB&logoColor=white"> <br> 
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee95&show_icons=true&theme=prussian)
+![jonghyunlee95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee95&show_icons=true&theme=prussian)
