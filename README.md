@@ -14,5 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ... <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+🌱 I’m currently learning ... 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=plastic&logo=JS&logoColor=white"> 
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AWS&logoColor=white">  
+<img src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=GIT&logoColor=white">  
+<img src="https://img.shields.io/badge/GITHUB-181717?style=plastic&logo=GITHUB&logoColor=white">  
+
+
+
 
