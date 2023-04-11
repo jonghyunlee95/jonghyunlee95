@@ -12,8 +12,8 @@
 ![NOTION](https://img.shields.io/badge/NOTION-000000.svg?&style=plastic&logo=NOTION&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=plastic&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717.svg?&style=plastic&logo=GITHUB&logoColor=white)
-# 💪🏻 GitHub Stats
-![jonghyunlee95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunlee95&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyunlee95&layout=Demo&theme=prussian)
+# 💪🏻 GitHub Stats & Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api?username=jonghyunlee95&count_private=true&show_icons=true&theme=prussian" height="200"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyunlee95&layout=Demo&theme=prussian" height="200"></img>
 # 🗒️ Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgus7578)](https://solved.ac/whdgus7578/)
